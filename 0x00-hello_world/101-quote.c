@@ -2,7 +2,6 @@
 #include <unistd.h>
 /**
  * main - print quote
- *
  * Return:1
  */
 int main(void)

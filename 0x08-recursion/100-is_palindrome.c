@@ -38,4 +38,3 @@ int is_palindrome(char *s)
 		return (1);
 	return (get_pal(s, len));
 }
-
